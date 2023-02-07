@@ -1,4 +1,4 @@
-[![](https://github.com/NACB/pytest-dc/workflows/tests/badge.svg)](https    ://github.com/NACB/pytest-dc/actions?query=workflow%3Atests) 
+[![](https://github.com/NACB/pytest-dc/workflows/tests/badge.svg)](https://github.com/NACB/pytest-dc/actions?query=workflow%3Atests) 
 
 # Pytest Lab
 
